@@ -1,8 +1,8 @@
-- 👋 Hi, I’m @mukundan1
-- 👀 I’m interested in anything and everything that I can understand.
-- 🌱 I’m currently learning php.
-- 💞️ I’m looking to collaborate.
-- 
+- Welcome, I’m @mukundan1
+- I’m interested in everything & anything.
+- Learning, always, no matter what.
+- Keeping it simple, I'm stupid.
+
 
 <!---
 mukundan1/mukundan1 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
