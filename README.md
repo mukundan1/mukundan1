@@ -1,7 +1,7 @@
-- Welcome, I’m @mukundan1
-- I’m interested in everything & anything.
-- Learning, always, no matter what.
-- Keeping it simple, I'm stupid.
+- Welcome, I’m mukundan155@gmail.com
+- I believe in myself that I can do everything & anything.
+- Implementing, relearning, always, no matter what.
+- [to] Keeping it simple, I'm stupid.
 
 
 <!---
